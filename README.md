@@ -31,7 +31,7 @@ var data = [
 
 In this example, the spreadsheet's checksum would be `6 + 3 + 7 = 16`.
 
-Create a function to find the checksup of the following.
+Create a function to find the checksum of the following.
 
 ```js
 var data = [
