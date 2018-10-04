@@ -27,9 +27,9 @@ var data = [
 
 * The first row's largest and smallest values are 2 and 8, their difference is 6.
 * The second row's largest and smallest values are 0 and 3, their difference is 3.
-* The third row's difference is 7.
+* The third row's difference is 6.
 
-In this example, the spreadsheet's checksum would be `6 + 3 + 7 = 16`.
+In this example, the spreadsheet's checksum would be `6 + 3 + 6 = 15`.
 
 Create a function to find the checksum of the following.
 
